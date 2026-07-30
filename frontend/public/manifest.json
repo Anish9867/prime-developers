@@ -1,0 +1,21 @@
+{
+  "name": "Prime Developers Enterprise PropTech",
+  "short_name": "Prime Developers",
+  "description": "Ultra-Luxury Real Estate & PropTech Platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090B",
+  "theme_color": "#D4AF37",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
